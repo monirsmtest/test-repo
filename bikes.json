@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Regular Bike",
+    "Price": "100",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Mountain Bike",
+    "Price": "200",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Road Bike",
+    "Price": "300",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Hybrid Bike",
+    "Price": "250",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Electric Bike",
+    "Price": "500",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Folding Bike",
+    "Price": "150",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Cruiser Bike",
+    "Price": "180",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "BMX Bike",
+    "Price": "220",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Touring Bike",
+    "Price": "400",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Track Bike",
+    "Price": "350",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  },
+  {
+    "name": "Cyclocross Bike",
+    "Price": "320",
+    "img": "https://i.ibb.co/sVRZ6xZ/pexels-pixabay-163491.jpg"
+  }
+]
